@@ -32,6 +32,7 @@ app.get('/', async (req, res) => {
         <h2>Добро пожаловать!</h2>
         <p>Тебя наебали 😜</p>
         <img src="https://i.pinimg.com/236x/8a/9a/a5/8a9aa5b26fc0deda0f96c96d730abfba.jpg">
+             style="width: 400px; height: auto;">
       </body>
     </html>
   `);
